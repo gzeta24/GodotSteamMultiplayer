@@ -1,0 +1,58 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1722894538
+export_presets.cfg::TextFile::-1::1722894518::0::1::::<><>::
+icon.svg::CompressedTexture2D::7540707520709641764::1701202894::1701202902::1::::<><>::
+::res://builds/::1722894524
+::res://scenes/::1722894479
+inventory.tscn::PackedScene::5065899261787915020::1722457598::0::1::::<><>::res://scripts/inventory_slot.gd
+main_scene.tscn::PackedScene::6588529112596452311::1722894479::0::1::::<><>::res://scripts/main_scene.gd
+player.tscn::PackedScene::978646963007712162::1722891873::0::1::::<><>::res://scripts/player.gd<>uid://c7e54hk7q04ci::::res://sprites/AnimationSheet.png
+::res://scripts/::1722894479
+inventory_slot.gd::GDScript::-1::1722459711::0::1::::InventorySlot<>TextureButton<>::
+main_scene.gd::GDScript::-1::1722894479::0::1::::<>Node<>::
+player.gd::GDScript::-1::1719519180::0::1::::Player<>CharacterBody2D<>::
+::res://sprites/::1722890939
+AnimationSheet.png::CompressedTexture2D::7029015557213539720::1719267693::1719267711::1::::<><>::
+::res://sprites/Crops/::1722890940
+crops.png::CompressedTexture2D::2412135170320943136::1701313628::1722457172::1::::<><>::
+Read Me First.txt::TextFile::-1::1701313848::0::1::::<><>::
+::res://sprites/Crops/Carrot/::1722890939
+carrot zoomed large.png::CompressedTexture2D::547585735049947234::1701313512::1722457173::1::::<><>::
+carrot zoomed.png::CompressedTexture2D::3106089881561392806::1701313506::1722457173::1::::<><>::
+carrot.png::CompressedTexture2D::3851950030434676329::1701313490::1722457173::1::::<><>::
+::res://sprites/Crops/Cherry/::1722890939
+cherry.png::CompressedTexture2D::3991799816771425038::1701313192::1722457173::1::::<><>::
+cherryzoomed large .png::CompressedTexture2D::1345936927972944687::1701313252::1722457173::1::::<><>::
+cherryzoomed.png::CompressedTexture2D::7424160469394225619::1701313208::1722457173::1::::<><>::
+::res://sprites/Crops/Corn/::1722890939
+corn zoomed large.png::CompressedTexture2D::1942743276500901003::1701313340::1722457173::1::::<><>::
+corn zoomed.png::CompressedTexture2D::4034534558034833715::1701313332::1722457173::1::::<><>::
+corn.png::CompressedTexture2D::3950241938318385071::1701313300::1722457173::1::::<><>::
+::res://sprites/Crops/Eggplant/::1722890939
+eggplant zoomed large.png::CompressedTexture2D::7754641472820654699::1701313454::1722457173::1::::<><>::
+eggplant zoomed.png::CompressedTexture2D::6361723823935308542::1701313446::1722457173::1::::<><>::
+eggplant.png::CompressedTexture2D::4059008053367051811::1701313438::1722457173::1::::<><>::
+::res://sprites/Crops/Grapes/::1722890939
+grapes zoomed large.png::CompressedTexture2D::7300932082081562274::1701313598::1722457173::1::::<><>::
+grapes zoomed.png::CompressedTexture2D::1108318333260842235::1701313604::1722457173::1::::<><>::
+grapes.png::CompressedTexture2D::4105421081328892970::1701313586::1722457173::1::::<><>::
+::res://sprites/Crops/Onion/::1722890939
+onion zoomed large.png::CompressedTexture2D::722767978563805919::1701313576::1722457173::1::::<><>::
+onion zoomed.png::CompressedTexture2D::6912886444404651605::1701313570::1722457172::1::::<><>::
+onion.png::CompressedTexture2D::1432684966127250652::1701313564::1722457172::1::::<><>::
+::res://sprites/Crops/Parnsip/::1722890939
+Parnsip zoomed large.png::CompressedTexture2D::7768926708913214362::1701313238::1722457172::1::::<><>::
+Parnsip zoomed.png::CompressedTexture2D::5048488667628551416::1701313132::1722457172::1::::<><>::
+Parnsip.png::CompressedTexture2D::4635141143888958310::1701313106::1722457172::1::::<><>::
+::res://sprites/Crops/Potato/::1722890940
+potato zoomed large.png::CompressedTexture2D::7920001239894156740::1701313286::1722457172::1::::<><>::
+potato zoomed.png::CompressedTexture2D::2433367002210581513::1701313280::1722457172::1::::<><>::
+potato.png::CompressedTexture2D::7507137890806995104::1701313268::1722457172::1::::<><>::
+::res://sprites/Crops/Pumpkin/::1722890940
+pumpkin zoomed large.png::CompressedTexture2D::2924591000159383910::1701313480::1722457172::1::::<><>::
+pumpkin zoomed.png::CompressedTexture2D::1297303509358056890::1701313472::1722457172::1::::<><>::
+pumpkint.png::CompressedTexture2D::6427537390375749148::1701313464::1722457172::1::::<><>::
+::res://sprites/Crops/Tomato/::1722890940
+tomato zoomed large.png::CompressedTexture2D::6380357706748272115::1701313674::1722457172::1::::<><>::
+tomato zoomed.png::CompressedTexture2D::2214214438882864962::1701313668::1722457172::1::::<><>::
+tomato.png::CompressedTexture2D::8330464784541468017::1701313550::1722457172::1::::<><>::

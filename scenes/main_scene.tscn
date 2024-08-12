@@ -1,0 +1,30 @@
+[gd_scene load_steps=2 format=3 uid="uid://c04sd2lwm7r0b"]
+
+[ext_resource type="Script" path="res://scripts/main_scene.gd" id="1_wp5ai"]
+
+[node name="Node" type="Node"]
+script = ExtResource("1_wp5ai")
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer"]
+layout_mode = 2
+
+[node name="Host" type="Button" parent="CenterContainer/VBoxContainer"]
+layout_mode = 2
+text = "Crear partida"
+
+[node name="Join" type="Button" parent="CenterContainer/VBoxContainer"]
+layout_mode = 2
+text = "Unirse"
+
+[node name="MultiplayerSpawner" type="MultiplayerSpawner" parent="."]
+_spawnable_scenes = PackedStringArray("res://scenes/player.tscn")
+spawn_path = NodePath("..")
+
+[connection signal="pressed" from="CenterContainer/VBoxContainer/Host" to="." method="_on_host_pressed"]
